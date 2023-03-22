@@ -155,7 +155,7 @@ export const EditProject = () => {
 
             <div className="pb-4">
               <p className="font-bold pb-2">링크</p>
-              <div>{`http://13.209.20.239:4977/sign/${getProjectData?.getProject.project?.uuid}`}</div>
+              <div>{`http://13.209.20.239:3001/sign/${getProjectData?.getProject.project?.uuid}`}</div>
             </div>
 
             <div className="pb-4">
